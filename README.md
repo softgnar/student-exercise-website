@@ -1,1 +1,1 @@
-# student-excersise-website
+# student-exercise-website
